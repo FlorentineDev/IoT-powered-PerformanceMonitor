@@ -1,4 +1,4 @@
-# IoT Data Streaming & Processing powered by Apache Kafka and Databricks: Harnessing Windows Performance Monitor to Power BI Dashboards
+# IoT Data Streaming powered by Apache Kafka and Databricks: Harnessing Windows Performance Monitor to Power BI Dashboards
 
 ![databricks-streaming-project drawio](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/34d111fe-1cb2-44e2-911c-d91af8d9c18d)
 
