@@ -18,7 +18,7 @@ Key Components:
 ![confluent 2](https://github.com/FlorentineDev/PerformanceMonitor_over_IoT/assets/16971296/4b2b8fff-5332-4618-8770-c0435a6a21fc)
 
 
-\ **Databricks** : A Databricks Spark Cluster is established to consume data from the Kafka Server, by continuously ingesting data using Spark Structured Streaming technology. PySpark (Python) is programmed on the Cluster to execute multiple transformations, clean the data, and load it into a table. This facilitates external software, such as Microsoft Power BI, to connect to the ckuster for data analysis. Source files are in "Databricks Script" folder.
+\ **Databricks Cluster** : A Databricks Spark Cluster is established to consume data from the Kafka Server, by continuously ingesting data using Spark Structured Streaming technology. PySpark (Python) is programmed on the Cluster to execute multiple transformations, clean the data, and load it into a table. This facilitates external software, such as Microsoft Power BI, to connect to the ckuster for data analysis. Source files are in "Databricks Script" folder.
 
 \ **Microsoft Power BI** : The project integrates with Microsoft Power BI, allowing users to connect from their devices to the Databricks-generated table. Through Power BI, users can effortlessly create intuitive dashboards and conduct in-depth data analysis.
 
