@@ -1,4 +1,4 @@
-# IoT Project: Host Performance Analysis powered by Databricks and Kafka
+# Streaming Data Pipeline IoT Project: From Windows Performance Monitor to Power BI Dashboards
 
 ![databricks-streaming-project drawio](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/34d111fe-1cb2-44e2-911c-d91af8d9c18d)
 
