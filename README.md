@@ -11,14 +11,14 @@ Key Components:
 ![performancemonitor](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/9d9155c2-776f-43a1-bef8-1c68c720fea5)
 
 
-\ **Python Script** : A custom Python script manages the produced CSV files, converts them into JSON strings, and transmit them to an Apache Kafka Server running on Confluent Cloud. This script is also responsible to search CSV files into Performance Monitor folder, and move them into a Destination Folder once data is properly transmitted to Kasfka Server. Python Script is located in "Python Script" folder. 
+\ **Python Script** : A custom Python script manages the produced CSV files, converts them into JSON strings, and transmit them to an Apache Kafka Server running on Confluent Cloud. This script is also responsible to search CSV files into Performance Monitor folder, and move them into a Destination Folder once data is properly transmitted to Kafka Server. Python Script is located in "Python Script" folder. 
 
 \ **Kafka Server on Confluent Cloud** : JSON-formatted performance data is published on a Kafka server hosted on Confluent Cloud, serving as the central hub for data dissemination.
 
 ![confluent 2](https://github.com/FlorentineDev/PerformanceMonitor_over_IoT/assets/16971296/4b2b8fff-5332-4618-8770-c0435a6a21fc)
 
 
-\ **Databricks Cluster** : A Databricks Spark Cluster is established to consume data from the Kafka Server, by continuously ingesting data using Spark Structured Streaming technology. PySpark (Python) is programmed on the Cluster to execute multiple transformations, clean the data, and load it into a table. This facilitates external software, such as Microsoft Power BI, to connect to the Cluster for data analysis. Python Source files are in "Databricks" folder.
+\ **Databricks Cluster** : A Databricks Spark Cluster is established to consume data from the Kafka Server, by continuously ingesting data using Spark Structured Streaming technology. PySpark (Python) is programmed on the Cluster to execute multiple transformations, clean the data, and load it into a table. This facilitates external software, such as Microsoft Power BI, to connect to the Cluster for data analysis. Python Source files are in "Databricks Script" folder.
 
 \ **Microsoft Power BI** : The project integrates with Microsoft Power BI, allowing users to connect from their devices to the Databricks-generated table. Through Power BI, users can effortlessly create intuitive dashboards and conduct in-depth data analysis.
 
