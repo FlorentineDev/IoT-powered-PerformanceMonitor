@@ -7,7 +7,9 @@ This IoT project is designed to provide hands-on experience with Spark Structure
 Key Components:
 
 \ **Microsoft Windows Performance Monitor** : The project initiates with the setup of Windows Performance Monitor to generate continuous performance data at 1-minute intervals.
-![performancemonitor](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/31c46f68-52c8-4ba7-8676-0a3653c6193c)
+
+![performancemonitor](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/9d9155c2-776f-43a1-bef8-1c68c720fea5)
+
 
 \ **Python Script** : A custom Python script manages the produced CSV files, converts them into JSON strings, and transmit them to an Apache Kafka Server running on Confluent Cloud. Source files are in "Python Script" folder.
 
