@@ -2,7 +2,7 @@
 
 ![databricks-streaming-project drawio](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/34d111fe-1cb2-44e2-911c-d91af8d9c18d)
 
-This IoT project is designed to provide hands-on experience with Spark Structured Streaming while developing a data pipeline for Internet-of-Things applications. The project focuses on leveraging computer performance metrics monitored by Windows Performance Monitor and employs a series of steps and technologies to enable visualization and dashboarding of this data through Power BI Client applications on any Internet-connected device.
+This IoT project is designed to provide hands-on experience with Spark Structured Streaming while developing a data pipeline for Internet-of-Things application. The project focuses on leveraging computer performance metrics monitored by Windows Performance Monitor and employs a series of steps and technologies to enable visualization and dashboarding of this data through Power BI Client applications on any Internet-connected device.
 
 Key Components:
 
