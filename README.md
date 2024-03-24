@@ -11,7 +11,7 @@ Key Components:
 ![performancemonitor](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/9d9155c2-776f-43a1-bef8-1c68c720fea5)
 
 
-\ **Python Script** : A custom Python script manages the produced CSV files, converts them into JSON strings, and transmit them to an Apache Kafka Server running on Confluent Cloud. Source files are in "Python Script" folder. This script is also responsible to search ".csv" files into Performance Monitor folder, and move them into a Destination Folder once data is properly transmitted to Kasfka Server.
+\ **Python Script** : A custom Python script manages the produced CSV files, converts them into JSON strings, and transmit them to an Apache Kafka Server running on Confluent Cloud. Source files are in "Python Script" folder. This script is also responsible to search CSV files into Performance Monitor folder, and move them into a Destination Folder once data is properly transmitted to Kasfka Server.
 
 \ **Kafka Server on Confluent Cloud** : JSON-formatted performance data is published on a Kafka server hosted on Confluent Cloud, serving as the central hub for data dissemination.
 
