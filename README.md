@@ -23,7 +23,7 @@ Key Components:
 
 ![databricks](https://github.com/FlorentineDev/PerformanceMonitor_over_IoT/assets/16971296/d4636f50-66b7-4ef4-8208-bccd6d392bd7)
 
-\ **Microsoft Power BI** : The project integrates with Microsoft Power BI, allowing users to connect from their devices to the Databricks-generated table. Through Power BI, users can effortlessly create intuitive dashboards and conduct in-depth data analysis.
+\ **Microsoft Power BI** : The project integrates with Microsoft Power BI, allowing users to connect from their devices to the Databricks-generated table. Through Power BI, users can create dashboards and conduct in-depth data analysis.
 
 ![power BI dashboard](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/f57416fb-a238-4e00-9117-f8c66e9acbe8)
 ![power BI dashboard2](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/b6d163d4-1181-49d0-92a8-6abfe7ed36f9)
