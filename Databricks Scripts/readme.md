@@ -1,4 +1,4 @@
-# Read me
+# README
 In this folder two files have been uploaded. Both are required to be loaded in the same folder on Databricks Workspace.
 
 "performance-monitor-test-suite" executes "performance-monitor-ingestion".
