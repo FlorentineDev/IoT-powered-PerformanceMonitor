@@ -15,7 +15,8 @@ Key Components:
 
 \ **Kafka Server on Confluent Cloud** : JSON-formatted performance data is published on a Kafka server hosted on Confluent Cloud, serving as the central hub for data dissemination.
 
-![confluent 1](https://github.com/FlorentineDev/PerformanceMonitor_over_IoT/assets/16971296/84a954e7-fb27-484e-a6cc-fc30d88e90e8)
+![confluent 2](https://github.com/FlorentineDev/PerformanceMonitor_over_IoT/assets/16971296/4b2b8fff-5332-4618-8770-c0435a6a21fc)
+
 
 \ **Databricks** : A Databricks Spark cluster is established to consume data from the Kafka Server and continuously ingest data using Structured Streaming of Spark. PySpark (Python) is programmed on the cluster to execute multiple transformations, clean the received data, and load it into a table. This facilitates external software, such as Microsoft Power BI, to connect to the ckuster for data analysis. Source files are in "Databricks Script" folder.
 
