@@ -1,6 +1,7 @@
 # IoT Data Streaming powered by Apache Kafka and Databricks: Harnessing Windows Performance Monitor to Power BI Dashboards
 
-![databricks-streaming-project drawio](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/34d111fe-1cb2-44e2-911c-d91af8d9c18d)
+![databricks-streaming-project2 drawio](https://github.com/FlorentineDev/PerformanceMonitor_over_IoT/assets/16971296/9574a9de-ee13-4d04-a62d-d668849ed540)
+
 
 This IoT project is designed to provide hands-on experience with Spark Structured Streaming while developing a data pipeline for Internet-of-Things application. The project focuses on extracting computer performance metrics monitored by Windows Performance Monitor, and employs a series of steps and technologies to expose produced data to Cloud through ETL Pipeline. After Data Cleaning and Processing into Databricks, Data is loaded into a table to allow visualization and dashboarding through Microsoft Power BI Client application, potentially installed on any Internet-connected device.
 
