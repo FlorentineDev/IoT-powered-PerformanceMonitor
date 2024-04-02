@@ -27,3 +27,7 @@ Key Components:
 
 ![power BI dashboard](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/f57416fb-a238-4e00-9117-f8c66e9acbe8)
 ![power BI dashboard2](https://github.com/FlorentineDev/IoT-powered-PerformanceMonitor/assets/16971296/b6d163d4-1181-49d0-92a8-6abfe7ed36f9)
+
+
+This Project leverages and takes inspiration from material of course **"Apache Spark and Databricks - Stream Processing in Lakehouse"**: I want to thanka **Prashant Kumar Pandey** for the course and the provided material.
+https://www.udemy.com/course/spark-streaming-using-python/?couponCode=ST13MT40224
